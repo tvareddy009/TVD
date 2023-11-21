@@ -1,9 +1,22 @@
+body
+{
+    background-color: black;
+}
 h1
 {
-    font-size:30px;
+    font-size:40px;
+    color:Red;
+}
+h2
+{
+    font-size:20px;
     color:Red;
 }
 p
 {
-    color:blueviolet;
+    color:white;
+}
+ul
+{
+    color:white;
 }
